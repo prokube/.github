@@ -1,38 +1,25 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
+about: oh no blok gam bakdor not worky
+title: "[Bug]"
+labels: bug
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## Describe the error
+Upon startup, Bakdooro does...
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## Expected behaviour
+Bakdooro should...
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## System Information
+**OS:** Windows 10 64-bit
+**RAM:** 8GB
+**Bakdooro Version:** Client 0.1, Plugin 1.1.1, Installer 1.1.1, Setup 1.0
+**Minecraft Version:** 1.17.1
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+## Before you submit
+[ ] I have made sure that this bug report is not a duplicate.
+[ ] This bug is reproducible on the latest versions of Bakdooro.
+[ ] This is a BUG REPORT and not a retarded cope about how someone used Bakdooro to grief my shitty P2W server.
