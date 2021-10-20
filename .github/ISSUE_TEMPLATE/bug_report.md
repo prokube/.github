@@ -20,6 +20,6 @@ Bakdooro should...
 **Minecraft Version:** 1.17.1
 
 ## Before you submit
-[ ] I have made sure that this bug report is not a duplicate.
-[ ] This bug is reproducible on the latest versions of Bakdooro.
-[ ] This is a BUG REPORT and not a retarded cope about how someone used Bakdooro to grief my shitty P2W server.
+- [ ] I have made sure that this bug report is not a duplicate.
+- [ ] This bug is reproducible on the latest versions of Bakdooro.
+- [ ] This is a BUG REPORT and not some retarded cope about how someone used Bakdooro to grief my shitty P2W server.
